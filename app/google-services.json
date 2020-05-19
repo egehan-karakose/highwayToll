@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "277890594667",
+    "firebase_url": "https://radaralert-48f1c.firebaseio.com",
+    "project_id": "radaralert-48f1c",
+    "storage_bucket": "radaralert-48f1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277890594667:android:14835ed01c17bedb",
+        "android_client_info": {
+          "package_name": "com.egehankarakose.radaralert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277890594667-cr96qlhnuf5kd8rc94cu0igsdetpb9sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh391K29VR1BmjEgm-lRXH7ifYUawK9OY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277890594667-cr96qlhnuf5kd8rc94cu0igsdetpb9sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

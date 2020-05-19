@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">radarAlert</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MAP</string>
+    <string name="login_fail">Giriş Başarısız</string>
+    <string name="complete">Boş alanları doldurunuz!!</string>
+    <string name="login_success">Giriş Yapılabilir</string>
+    <string name="mail_check">Mailinizi Onaylayınız</string>
+    <string name="mail_success">Sifre sıfırlama maili gönderildi</string>
+    <string name="mail_fail">İşlem başarısız</string>
+    <string name="match_fail">Şifreler eşleşmiyor!!</string>
+    <string name="fill_text">Boş alanları doldurunuz!!</string>
+    <string name="register_success">Üyelik Kaydı Oluşturuldu</string>
+    <string name="register_fail">Üyelik Kaydı Oluşturulamadı</string>
+    <string name="mail_confirm">Mail kutunuzu kontrol edip maili onaylayın</string>
+    <string name="mail_confirm_fail">Mail gönderilirirken sorun oluştu!!</string>
+
+</resources>
